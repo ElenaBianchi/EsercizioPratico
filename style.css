@@ -1,0 +1,139 @@
+.index { background: #E4C994;
+    font-family: Helvetica;
+}
+p {color: #000; font-size: 20px;}
+.imgcasa {height:50;}
+.titolo {display: block; margin: 30; text-align: center;padding-top: 30px ;font-size: 35px;color:black;}
+
+
+.sopra{
+    display:flex;
+    flex-direction: row;
+    margin-left: 5%   ;
+    margin-top: 5% ;
+  }
+  
+  
+  .sotto{
+    display:flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-top: 5%;}
+
+  .immhome{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+
+
+
+.imgcasa {height:50;}
+.imghuinca1 {position:absolute; left: 340px; height: 400; padding-top: 5px}
+.imghuinca2 {position:absolute; left: 800px; height: 400; padding-top: 5px}
+.imghuinca3 {position:absolute; right: 340px; height: 400; padding-top: 5px}
+.imghuinca4 {position:absolute; left: 300px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imghuinca5 {position:absolute; left: 760px; height: 250; padding-top: 500px; padding-bottom: 10px;}
+.imghuinca6 {position:absolute; right: 340px; height: 400; padding-top: 500px; padding-bottom: 10px;}
+
+
+.Titolo1 {display: block; margin: auto; text-align: center;padding-top: 50px ;font-size: 35px}
+.p1{display: block; margin: 80; text-align: center; padding-top: 30px ;font-size: 25px}
+
+
+.camillobody{ background: #508F62;
+    font-family: Helvetica;}
+
+p{color: #000; font-size: 20px;}
+
+.imgcasa {height:50;}
+.imgfreier1 {position:absolute; left: 350px; height: 400; padding-top: 5px}
+.imgfreier2 {position:absolute; left: 790px; height: 400; padding-top: 5px}
+.imgfreier3 {position:absolute; right: 340px; height: 400; padding-top: 5px;}
+.imgfreier4 {position:absolute; left: 400px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imgfreier5 {position:absolute; left: 780px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imgfreier6 {position:absolute; right: 320px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+
+
+.Titolo {display: block; margin: auto; text-align: center;padding-top: 30px ;font-size: 35px}
+.p {display: block; margin: 80; text-align: center; padding-top: 30px ;font-size: 25px}
+
+
+
+.karlottabody{ background: #ADDBDB; font-family: Helvetica;}
+p{ color: #000; font-size: 20px;}
+
+.imgcasa {height:50;}
+.imgboca1 {position:absolute; left: 200px; height: 350; padding-top: 5px}
+.imgboca2 {position:absolute; left: 200px; height: 400; padding-top: 400px}
+.imgboca3 {position:absolute; left: 500px; height: 400; padding-top: 400px}
+.imgboca4 {position:absolute; right: 400px; height: 450; padding-top: 5px; }
+.imgboca5 {position:absolute; left: 300px; height: 400; padding-top: 900px; }
+.imgboca6 {position:absolute; right: 400px; height: 400; padding-top: 900px; }
+.imgboca7 {position:absolute; right: 550px; height: 300; padding-top: 500px}
+.imgboca8 {position:absolute; left: 500px; height: 350; padding-top: 5px; }
+.imgboca9 {position:absolute; right: 250px; height: 300; padding-top: 500px}
+
+
+.Titolo {display: block; margin: auto; text-align: center;padding-top: 30px ;font-size: 35px}
+.p {display: block; margin: 80; text-align: center; padding-top: 30px ;font-size: 25px}
+
+.bocabody{ background: #982A60; font-family: Helvetica;}
+p {color: #000; font-size: 20px;}
+
+.imgcasa {height:50;}
+.imgfritz1 {position:absolute; left: 200px; height: 300; padding-top: 5px}
+.imgfritz2 {position:absolute; left: 550px; height: 300; padding-top: 5px}
+.imgfritz3 {position:absolute; right: 600px; height: 400; padding-top: 5px}
+.imgfritz4 {position:absolute; right: 200px; height: 400; padding-top: 5px; }
+.imgfritz5 {position:absolute; left: 200px; height: 300; padding-top: 400px; }
+.imgfritz6 {position:absolute; left: 550px; height: 300; padding-top: 400px; }
+.imgfritz7 {position:absolute; right: 600px; height: 300; padding-top: 500px}
+.imgfritz8 {position:absolute; right: 200px; height: 400; padding-top: 500px}
+.imgfritz9 {position:absolute; left: 200px; height: 450; padding-top: 850px; padding-bottom: 10px;}
+.imgfritz10 {position:absolute; right: 250px; height: 400; padding-top: 1000px; padding-bottom: 10px;}
+
+
+.Titolo {display: block; margin: auto; text-align: center;padding-top: 30px ;font-size: 35px}
+.p {display: block; margin: 80; text-align: center; padding-top: 30px ;font-size: 25px}
+
+.fritzbody{ background: #C3A466;
+    font-family: Helvetica;}
+p{ color: #000; font-size: 20px;}
+
+.imgcasa {height:50;}
+.imglahan1 {position:absolute; left: 200px; height: 300; padding-top: 5px}
+.imglahan2 {position:absolute; left: 500px; height: 300; padding-top: 5px}
+.imglahan3 {position:absolute; right: 440px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imglahan4 {position:absolute; left: 450px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imglahan5 {position:absolute; left: 810px; height: 300; padding-top: 500px; padding-bottom: 10px;}
+.imglahan6 {position:absolute; left: 830px; height: 300; padding-top: 5px}
+.imglahan7 {position:absolute; right: 190px; height: 300; padding-top: 5px}
+.imglahan8 {position:absolute; right: 500px; height: 300; padding-top: 5px}
+
+
+
+.Titolo {display: block; margin: auto; text-align: center;padding-top: 50px ;font-size: 35px}
+.p {display: block; margin: 150; text-align: center; padding-top: 30px ;font-size: 25px}
+
+
+.timbody { background: #FF8057; font-family: Helvetica;}
+
+p{ color: #000; font-size: 20px;}
+
+.imgcasa {height:50;}
+.imgherrera1 {position:absolute; left: 200px; height: 400; padding-top: 5px}
+.imgherrera2 {position:absolute; left: 600px; height: 400; padding-top: 5px}
+.imgherrera3 {position:absolute; right: 200px; height: 400; padding-top: 5px;}
+.imgherrera4 {position:absolute; right: 600px; height: 400; padding-top: 5px;}
+.imgherrera5 {position:absolute; left: 300px; height: 350; padding-top: 500px;}
+.imgherrera6 {position:absolute; left: 400px; height: 350; padding-top: 950px; padding-bottom: 10px;}
+.imgherrera7 {position:absolute; right: 300px; height: 350; padding-top: 950px; padding-bottom: 10px;}
+.imgherrera8 {position:absolute; right: 280px; height: 350; padding-top: 500px}
+.imgherrera9 {position:absolute; left: 700px; height: 350; padding-top: 950px; padding-bottom: 10px;}
+
+.Titolo {display: block; margin: auto; text-align: center;padding-top: 30px ;font-size: 35px}
+.p {display: block; margin: 80; text-align: center; padding-top: 30px ;font-size: 25px}
+
+.herrerabody {background-color: #EF8CB8; font-family: Helvetica;}
